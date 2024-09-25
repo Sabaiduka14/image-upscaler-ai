@@ -3,7 +3,7 @@
 import { useState, useRef, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { QuestionMarkCircledIcon } from "@radix-ui/react-icons"
-import { Image, Loader2, Maximize2, Download, X } from "lucide-react"
+import { Image, Loader2, Download, X } from "lucide-react"
 import { toast } from "@/hooks/use-toast"
 import { ImageComparisonSlider } from "./image-comparison-slider"
 
